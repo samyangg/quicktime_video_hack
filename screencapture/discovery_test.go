@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/samyangg/quicktime_video_hack/screencapture"
+	"github.com/danielpaulus/quicktime_video_hack/screencapture"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/samyangg/quicktime_video_hack/screencapture/common"
+	"github.com/danielpaulus/quicktime_video_hack/screencapture/common"
 )
 
 // Dictionary related magic marker constants
